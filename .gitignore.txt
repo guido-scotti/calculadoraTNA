@@ -1,0 +1,4 @@
+bin/
+obj/
+parcial2ADD.layout
+parcial2ADD.depend

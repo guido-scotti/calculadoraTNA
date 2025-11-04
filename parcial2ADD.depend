@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1762220274 source:c:\users\scott\onedrive\desktop\parcialanalisis\parcial2add\main.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<iomanip>
+
